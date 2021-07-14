@@ -20,6 +20,7 @@
     "prisma": "^2.27.0"
   },
   "dependencies": {
-    "@prisma/client": "^2.27.0"
+    "@prisma/client": "^2.27.0",
+    "express": "^4.17.1"
   }
 }
