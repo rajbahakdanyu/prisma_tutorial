@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rajbahakdanyu/prisma_tutorial/issues"
   },
-  "homepage": "https://github.com/rajbahakdanyu/prisma_tutorial#readme"
+  "homepage": "https://github.com/rajbahakdanyu/prisma_tutorial#readme",
+  "devDependencies": {
+    "prisma": "^2.27.0"
+  }
 }
