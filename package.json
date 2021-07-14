@@ -18,5 +18,8 @@
   "homepage": "https://github.com/rajbahakdanyu/prisma_tutorial#readme",
   "devDependencies": {
     "prisma": "^2.27.0"
+  },
+  "dependencies": {
+    "@prisma/client": "^2.27.0"
   }
 }

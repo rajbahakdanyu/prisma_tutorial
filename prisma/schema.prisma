@@ -8,6 +8,7 @@ generator client {
 }
 
 model User {
+  @@map(name: "user")
   id Int @default(autoincrement()) @id
   username String @db.Char(255) @unique
 }
